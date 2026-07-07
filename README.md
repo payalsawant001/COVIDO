@@ -10,7 +10,7 @@ A fully responsive COVID-19 awareness website built using only HTML and CSS.
 
 🧼 Easy-to-understand COVID-19 prevention tips
 
-🎨 Clean UI and smooth styling
+🎨 Clean UI and smooth styling..
 
 🌍 Fully responsive across devices
 
