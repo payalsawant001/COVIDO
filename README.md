@@ -1,5 +1,5 @@
 🚀 Covido – Stay Informed, Stay Safe 🌐
-A fully responsive COVID-19 awareness website built using only HTML and CSS.
+A fully responsive COVID-19 awareness website built using only HTML and CSS...
 
 🛠️ Tech Stack: HTML5, CSS3 – no frameworks, just fundamentals.
 💡 Ideal for beginners learning web layout, responsiveness, and static site structure.
