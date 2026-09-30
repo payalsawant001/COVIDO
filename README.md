@@ -9,7 +9,7 @@ A fully responsive COVID-19 awareness website built using only HTML and CSS
 📱 Mobile-first design
 
 🧼 Easy-to-understand COVID-19 prevention tips
-suraj kharade
+
 🎨 Clean UI and smooth styling..
 
 🌍 Fully responsive across devices
