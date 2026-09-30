@@ -5,11 +5,11 @@ A fully responsive COVID-19 awareness website built using only HTML and CSS
 💡 Ideal for beginners learning web layout, responsiveness, and static site structure.
 
 🔍 Features:
-hello
+
 📱 Mobile-first design
 
 🧼 Easy-to-understand COVID-19 prevention tips
-
+suraj kharade
 🎨 Clean UI and smooth styling..
 
 🌍 Fully responsive across devices
