@@ -17,6 +17,6 @@ A fully responsive COVID-19 awareness website built using only HTML and CSS
 🧰 Well-commented, easy-to-follow code
 
 💬 Explore, fork, or contribute to help spread awareness through code!
-What are the system of the area
+
 #HTML #CSS #ResponsiveWebDesign #Covid19Awareness #WebDevProject #FrontendBasics #OpenSourceForGood
 Check COVIDO on :-  https://covido-19.netlify.app/
